@@ -1,0 +1,56 @@
+#king
+ {text-align: center;
+ color: teal; font-size-bold;}
+
+
+
+ #my-list
+  {text-align: center;
+  font-size: 20px;
+font-style: italic;
+list-style-type: none;
+color:orange;}
+
+ .my-photo{display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10000px}
+
+
+
+#main{color:orange;
+      font-size: 50px;
+      font-weight: bolder;
+      text-transform: uppercase;
+      text-align: center;}
+
+body{background-color: wheat;}
+
+.time{background-color: wheat;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     color: white
+     background color:orange;
+    border-radius: 1000px;}
+
+.time:hover{background-color: blue;
+           text-shadow: 50px black;}
+
+.my-photo:hover{height:400px;
+               width: 300px;}
+
+#my-list:hover{color: teal;}
+
+
+h1::first-letter{font-size: 200%;
+                 color:orange;}
+
+
+
+
+
+
+
+
+}
